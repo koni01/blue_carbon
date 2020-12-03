@@ -2,6 +2,8 @@ Blue_carbon
 -Belajar Random Forest
 -Belajar klasifikasi remote sensing dengan machine learning
 -lanjut postdoc australia
+	*Kona koni
+		-konii
 -spatial data science
 -jadi sultan
 -jadi profesor
