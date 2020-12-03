@@ -1,5 +1,5 @@
 Blue_carbon 
 -Belajar Random Forest
 -Belajar klasifikasi remote sensing dengan machine learning
--lulus kuliah
+-lanjut postdoc australia
 -spatial data science
