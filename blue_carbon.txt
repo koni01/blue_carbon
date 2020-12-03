@@ -3,3 +3,4 @@ Blue_carbon
 -Belajar klasifikasi remote sensing dengan machine learning
 -lanjut postdoc australia
 -spatial data science
+-jadi sultan
